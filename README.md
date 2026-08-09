@@ -220,4 +220,3 @@ Potential applications include:
 * **Jupyter Notebook**
 
 
-`Python` • `SQL` • `Power BI` • `Machine Learning`
